@@ -1,0 +1,10 @@
+.idea
+node_modules
+.temp
+.vscode
+env-internal.ts
+Dockerfile
+buildAndPush.sh
+run.sh
+.dockerignore
+
